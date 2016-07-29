@@ -1,0 +1,97 @@
+{
+  "title": "I AM RAFAEL",
+  "home-sub-title" : "Personal description to be put here. Use line breaks for gud stuf",
+  "home-facebook" : "https://www.facebook.com/rafael.caetano.50",
+  "home-linkedin" : "https://pt.linkedin.com/in/rafael-caetano-376636b4",
+  "photo" : "assets/images/rafael.jpg",
+  "name" : "Rafael Caetano",
+  "bday" : "01 Mar 1994",
+  "address" : "Leiria, Portugal",
+  "nationality" : "Portuguese",
+  "phone" : "(+351) 916754699",
+  "email" : "rafaelvcaetano@hotmail.com",
+  "curriculum" : "/curriculum/rafael_cv.pdf",
+  "objective" : "Since I was a kid, technology always fascinated me. Computers were a great attraction to me and I was always eager to jump into one and dwelve into their infinite possibilities. One thing that always called my atention were games. The possibilites were endless and hours of fun could be enjoyed. This led me to want to learn how to make them and eventaly learn how to program. It was at this point that I knew exactly what I wanted to do in life and since then I commited myself to learn how to do it, in the best possible way. That is my objective in life: to always learn and get better so that I can achieve great goals and eventualy make it so that my work has an impact in someone's life.",
+  "what-i-do" : "I'm currently a student of a Master's Degree in Computer Engineering and Mobile Computing. During the years I've developed multiple projects of multiple areas but found special passion in a few. Software development became a passion for me as well as game development. Besides the numerous academic projects that I took part in, I also developed some applications as personal projects. These include a mobile game and an utility targeted for a flight simulation community. Both of these projects were developed for the Android platform.",
+  "what-i-do-list" : [
+    "Software Development",
+    "Game Development",
+    "Android Development"
+  ],
+  "published-apps" : [
+    {
+      "name" : "Color Point",
+      "image-url" : "https://lh4.ggpht.com/pl44TqlwC-JE9SEFtVWi4RTibzq-K_3b6idMLTzLeodPZmeMCT5swmXbgRYmH1LFBvk=w300",
+      "url": "https://play.google.com/store/apps/details?id=me.fayax.colorpoint"
+    },
+    {
+      "name" : "IL-2 BoS Map",
+      "image-url" : "https://lh3.googleusercontent.com/eGVCzxquO7dg2r8tCDQxlx84ognHXX-hV-C-hQIQsvDEJ_OhL_YAU1Xk9qOtOW71sPO3=w300-rw",
+      "url": "https://play.google.com/store/apps/details?id=bosmap.magnum.me.il2bosmap"
+    }
+  ],
+  "programming-skills" : [
+    {
+      "name" : "Java",
+      "progress": "90"
+    },
+    {
+      "name" : "Android",
+      "progress": "85"
+    },
+    {
+      "name" : "Ruby",
+      "progress": "80"
+    },
+    {
+      "name" : "C",
+      "progress": "75"
+    },
+    {
+      "name" : "Node.js",
+      "progress": "70"
+    }
+  ],
+  "other-skills" : [
+    {
+      "name" : "English",
+      "progress": "95"
+    },
+	{
+      "name" : "Spanish",
+      "progress": "50"
+    },
+	{
+      "name" : "Problem Solving",
+      "progress": "90"
+    },
+	{
+      "name" : "Communication",
+      "progress": "80"
+    },
+    {
+      "name" : "Leadership",
+      "progress": "80"
+    },
+    {
+      "name" : "Agile Development",
+      "progress": "85"
+    }
+  ],
+  "education-timeline" : [
+    {
+      "when" : "2015-NOW",
+      "what" : "MSc Computer Engineering and Mobile Computing",
+      "where": "Superior School of Technology and Management, IPLeiria",
+      "desc" : "Course delegate"
+    },
+    {
+      "when" : "2012-2015",
+      "what" : "BSc Computer Engineering, 17",
+      "where": "Superior School of Technology and Management, IPLeiria",
+      "desc" : "Participated in an Erasmus Intesive Program in Finland<br>Participated in multiple programming contests<br>Developed a strategy game as a final project"
+    }
+  ],
+  "hire" : "Hiring info",
+  "hire-available" : 1
+}
